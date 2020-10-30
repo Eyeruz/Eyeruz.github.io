@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React-Redux with Ruby Rails Back-end(final project)"
-date:       2020-10-30 18:07:49 +0000
+date:       2020-10-30 14:07:50 -0400
 permalink:  react-redux_with_ruby_rails_back-end_final_project
 ---
 
