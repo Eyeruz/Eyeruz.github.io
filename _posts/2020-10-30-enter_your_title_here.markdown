@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Enter your title here"
-date:       2020-10-30 18:03:06 +0000
+title:      "Javascript Project"
+date:       2020-10-30 14:03:07 -0400
 permalink:  enter_your_title_here
 ---
 
