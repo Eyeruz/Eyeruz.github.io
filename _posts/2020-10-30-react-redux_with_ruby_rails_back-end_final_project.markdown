@@ -10,4 +10,4 @@ I did my final project on an up-to-date world wide currency converter with a sid
 
 
 
-https://medium.com/@3yerus/react-redux-with-ruby-rails-back-end-final-project-42f410bcd79e
+[](http://)https://medium.com/@3yerus/react-redux-with-ruby-rails-back-end-final-project-42f410bcd79e
